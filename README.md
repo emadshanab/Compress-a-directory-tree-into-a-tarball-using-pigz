@@ -1,5 +1,7 @@
 https://gist.github.com/olivierpierre/21423ad8005ab6321aae8912c954cda2
 
+apt-get install pigz
+
 Compress a directory tree into a tarball using pigz
 
 
